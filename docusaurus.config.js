@@ -80,8 +80,9 @@ const config = {
             label: "Proposals",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/contact", label: "Contact", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/tattle-made/misinfocon-india-docs",
             label: "GitHub",
             position: "right",
           },
