@@ -34,7 +34,7 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
-      <img src="/img/misinfocon-india-group-photo.png"></img>
+      <img src="img/misinfocon-india-group-photo.png"></img>
 
       <HomepageHeader />
       <main>{/* <HomepageFeatures /> */}</main>
