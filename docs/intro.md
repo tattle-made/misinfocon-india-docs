@@ -2,46 +2,37 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Anyone with an idea pertaining to any of the working groups can submit a proposal. Your proposal is an idea for a project that you would like to work on. Creating a proposal is the first step to announce your idea to the community and get feedback on it. It is also a great way to be noticed by possible collaborators. While everyone is encouraged to create proposals for anything you'd like to be seen built, its most fruitful to create proposals for projects that you'd like to be actively lead and build.
 
-## Getting Started
+## Proposal Template
 
-Get started by **creating a new site**.
+Your proposal should answer the following questions :
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **Why** do you want to initiate this project and what problem does it aim to solve? Provide some background information.
+- **Who** will the final product be for, in what situations, and how will it be used? What are the target audience needs and motivations?
+- **How** do you plan to address this problem? What functionalities should the final product have to meet the aforementioned usage scenarios?
+- What difficulties am I currently facing? What are the milestone goals?
+- What roles of collaborators are currently expected to be recruited?
+- Expected project timeline?
+- Which Working Group(s) do you think this proposal is best suited for
 
-### What you'll need
+## How to Submit Proposal
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+There are many ways to create and submit a new proposal
 
-## Generate a new site
+1. Make a PR on this documentation site's repo
+2. Email us with your proposal on misinfocon_support@tattle.co.in and we'll add it with due credit
 
-Generate a new Docusaurus site using the **classic template**.
+## Participate
 
-The classic template will automatically be added to your project after you run the command:
+There are many avenues to be involved in critiquing or helping in building variou proposed project.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Via the mailing list
+- Whatsapp Group
+- [Github Discussions](https://github.com/tattle-made/misinfocon-india-docs/discussions)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Credit
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+A lot of the inspiration for activating the working groups and helping them reach fruition has been taken from the civic tech project g0v.tw from Taiwan. We’ve borrowed liberally from their [handbook](https://g0v.hackmd.io/@jothon/ctpbook_en/https%3A%2F%2Fg0v.hackmd.io%2F%40jothon%2Fctpbook_en) when apt.

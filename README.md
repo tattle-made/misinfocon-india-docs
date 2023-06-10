@@ -1,41 +1,40 @@
-# Website
+# Misinfocon India Docs
+
+## About
+
+This is a repository of work done by the working groups created at Misinfocon India.
+
+## About the Site
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
-
-```
-$ yarn
-```
-
 ### Local Development
 
-```
-$ yarn start
-```
+After cloning the repository, We recommend that you begin by typing:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+`cd misinfocon-india-docs`
+`npm start`
 
-### Build
+Inside that directory, you can run several commands:
 
-```
-$ yarn build
-```
+`npm start`
+Starts the development server.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+`npm run build`
+Bundles your website into static files for production.
+
+`npm run serve`
+Serves the built website locally.
+
+`npm deploy`
+Publishes the website to GitHub pages.
 
 ### Deployment
 
-Using SSH:
+'
 
 ```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+$ GIT_USER=<Your GitHub username> npm deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
