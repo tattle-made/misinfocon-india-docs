@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tattle-made.github.io/misinfocon-india-docs/blog</id>
+    <title>Misinfocon India Docs Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tattle-made.github.io/misinfocon-india-docs/blog"/>
+    <subtitle>Misinfocon India Docs Blog</subtitle>
+    <icon>https://tattle-made.github.io/misinfocon-india-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://tattle-made.github.io/misinfocon-india-docs/blog/welcome</id>
+        <link href="https://tattle-made.github.io/misinfocon-india-docs/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.</p>]]></content>
+        <author>
+            <name>Denny Georgr</name>
+            <uri>https://denntenna.github.io</uri>
+        </author>
+        <author>
+            <name>Tarunima Prabhakar</name>
+            <uri>https://tarunima.com</uri>
+        </author>
+        <author>
+            <name>Yash Budhwar</name>
+            <uri>https://www.linkedin.com/in/yash-budhwar-495290a5/</uri>
+        </author>
+        <category label="misinfocon-india" term="misinfocon-india"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>
