@@ -4,7 +4,7 @@
         <title>Misinfocon India Docs Blog</title>
         <link>https://tattle-made.github.io/misinfocon-india-docs/blog</link>
         <description>Misinfocon India Docs Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,9 +12,9 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://tattle-made.github.io/misinfocon-india-docs/blog/welcome</link>
             <guid>https://tattle-made.github.io/misinfocon-india-docs/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 11 Jun 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.]]></description>
-            <content:encoded><![CDATA[<p>Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.</p><p>Starting this week we will be hosting collaborative <a href="/misinfocon-india-docs/blog/docs/intro">Proposal</a> writing sessions. The sessions will be conducted during 11 am to 12 pm or 5 pm to 6 pm this week. To sign up, <a href="/misinfocon-india-docs/contact">email us</a></p>]]></content:encoded>
             <category>misinfocon-india</category>
             <category>welcome</category>
         </item>

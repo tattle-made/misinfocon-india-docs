@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tattle-made.github.io/misinfocon-india-docs/blog</id>
     <title>Misinfocon India Docs Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-06-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tattle-made.github.io/misinfocon-india-docs/blog"/>
     <subtitle>Misinfocon India Docs Blog</subtitle>
@@ -11,9 +11,9 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://tattle-made.github.io/misinfocon-india-docs/blog/welcome</id>
         <link href="https://tattle-made.github.io/misinfocon-india-docs/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
+        <updated>2023-06-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.</p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to this new space where semi-finalized/finalized ideas from the various Working Groups are shared.</p><p>Starting this week we will be hosting collaborative <a href="/misinfocon-india-docs/blog/docs/intro">Proposal</a> writing sessions. The sessions will be conducted during 11 am to 12 pm or 5 pm to 6 pm this week. To sign up, <a href="/misinfocon-india-docs/contact">email us</a></p>]]></content>
         <author>
             <name>Denny Georgr</name>
             <uri>https://denntenna.github.io</uri>
