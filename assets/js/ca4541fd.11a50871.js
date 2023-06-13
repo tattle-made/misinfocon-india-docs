@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisinfocon_india_docs=self.webpackChunkmisinfocon_india_docs||[]).push([[5042],{6395:o=>{o.exports=JSON.parse('{"permalink":"/misinfocon-india-docs/blog/tags/proposals","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
