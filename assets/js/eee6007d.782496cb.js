@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisinfocon_india_docs=self.webpackChunkmisinfocon_india_docs||[]).push([[7160],{6987:i=>{i.exports=JSON.parse('{"label":"mom","permalink":"/misinfocon-india-docs/blog/tags/mom","allTagsPath":"/misinfocon-india-docs/blog/tags","count":2}')}}]);

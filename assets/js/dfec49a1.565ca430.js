@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisinfocon_india_docs=self.webpackChunkmisinfocon_india_docs||[]).push([[7655],{8794:o=>{o.exports=JSON.parse('{"permalink":"/misinfocon-india-docs/blog/tags/zoom-calls","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
