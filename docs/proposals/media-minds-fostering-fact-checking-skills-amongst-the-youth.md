@@ -1,6 +1,6 @@
 ---
 slug: media-minds-fostering-fact-checking-skills-amongst-the-youth
-title: Media Minds: Fostering Fact-Checking Skills Amongst the Youth
+title: Media Minds - Fostering Fact-Checking Skills Amongst the Youth
 authors: [Yash]
 tags: [proposals, media literacy, evaluation, youth]
 ---
