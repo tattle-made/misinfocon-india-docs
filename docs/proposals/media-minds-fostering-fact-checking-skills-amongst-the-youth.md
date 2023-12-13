@@ -8,4 +8,4 @@ This initiative is dedicated to investigating the influence of media literacy an
 
 For more details, please see [this](https://tattle-made.github.io/misinfocon-india-docs/HABEEB%20RAHMAN%20YP_Misinfocon%20Proposal.pdf)
 
-Author of the proposal is Habeeb, who can be reached out at habikzp@gmail.com
+If you want to engage further with this project, you may reach out to misinfocon_support@tattle.co.in
