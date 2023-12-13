@@ -1,6 +1,6 @@
 ---
 slug: addressing-missing-and-mis-information
-title: Addressing Missing and Mis-Information
+title: Addressing Missing and MisInformation
 authors: [Yash]
 tags: [proposals, information gap, misinformation, LGBTQIAP+]
 ---
