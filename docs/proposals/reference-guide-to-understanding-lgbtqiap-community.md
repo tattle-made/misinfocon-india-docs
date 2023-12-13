@@ -1,6 +1,6 @@
 ---
 slug: reference-guide-to-understanding-lgtbqiap-community
-title: Reference Guide to Understanding LGBTQIAP+ Community
+title: Reference Guide to Understanding LGBTQIAP Community
 authors: [Yash]
 tags: [proposals, spreading awareness, outreach, LGBTQIAP+]
 ---
